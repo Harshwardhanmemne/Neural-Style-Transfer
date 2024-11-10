@@ -10,7 +10,7 @@ Follow these steps to set up the environment and run the project:
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/Aimank009/NST
+    https://github.com/Harshwardhanmemne/Neural-Style-Transfer.git
     cd NST
     ```
 
